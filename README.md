@@ -12,7 +12,7 @@ Development of a basic **Deep Neural Network** for a classification problem usin
 
 Develop a **Convolutional Neural Network** for image classification on the CIFAR-10 dataset.
 
-![image](https://github.com/Di40/DeepLearning-Assignments/assets/57565142/11dfb391-041e-44f4-a71c-6a72f759e2f3)
+![image](https://github.com/Di40/DeepLearning-Assignments/assets/57565142/65bae22b-4533-4ffa-930b-22f75d165d22)
 
 4. [Recurrent Neural Networks & Transformer](https://github.com/Di40/DeepLearning-Assignments/blob/main/HW4%20-%20Recurrent%20Neural%20Networks%20%26%20Transformer.ipynb)
 
@@ -22,13 +22,14 @@ Develop a **Recurrent Neural Network (RNN)** for **sentiment analysis** using th
 
 Develop a simple shallow autoencoder for **dimensionality reduction**. Next, create a deep version. Finally, experiment with applying autoencoders to denoising data tasks (**denoising autoencoder**).
 
-![image](https://github.com/Di40/DeepLearning-Assignments/assets/57565142/8efaa257-edcb-419e-a853-e32e5199d0ea)
+![image](https://github.com/Di40/DeepLearning-Assignments/assets/57565142/56ab8c32-eacb-46f3-b14e-ed090b7c64bb)
 
 6. [Variational Autoencoders](https://github.com/Di40/DeepLearning-Assignments/blob/main/HW6%20-%20Variational%20Autoencoders.ipynb)
 
 Define a **Variational Autoencoder (VAE)** using fundamental PyTorch components. Next, establish a training loop that includes the two essential losses for VAE training: the **reconstruction loss** and the **KL-divergence loss**. Use this training loop to train the model on the MNIST dataset, selecting choosing appropriate hyperparameters. Lastly, explore and analyze the latent encodings learned by the model through various visualization techniques.
 
-![image](https://github.com/Di40/DeepLearning-Assignments/assets/57565142/899e45a5-bc14-4eb6-9734-684cf3543cf0)
+![image](https://github.com/Di40/DeepLearning-Assignments/assets/57565142/002694ad-7565-44fa-b866-e981cbbe7a23)
 
-![image](https://github.com/Di40/DeepLearning-Assignments/assets/57565142/d3883014-ae5b-4ad9-9d8b-a91664919c21)
+![image](https://github.com/Di40/DeepLearning-Assignments/assets/57565142/f086a685-2262-4def-8c71-af7807c7ce3e)
+
 
